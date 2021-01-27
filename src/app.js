@@ -25,7 +25,7 @@ app.get("", (req, res) => {
 app.get("/help", (req, res) => {
   res.render("help", {
     title: "Help",
-    text: "This is some helpful text",
+    text: "How can I help you?",
     name: "Khun Zin Shine",
   });
 });

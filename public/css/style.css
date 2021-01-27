@@ -39,6 +39,11 @@ header a {
 .protrait {
   width: 250px;
 }
+.pic {
+  width: 50px;
+  position: absolute;
+  right: 0%;
+}
 
 input {
   border: 1px solid gray;
